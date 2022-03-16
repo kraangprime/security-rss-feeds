@@ -2,6 +2,7 @@
 
 Here is the RSS list i use with https://newsboat.org/ to stay on top of certain security news/events.
 
+```
 # news
 https://rss.packetstormsecurity.com/news/ news
 https://hnrss.org/show news
@@ -48,3 +49,4 @@ https://www.wired.com/feed/category/security/latest/rss security
 https://securityintelligence.com/news/rss security
 https://us-cert.cisa.gov/ncas/alerts.xml security
 http://www.securityfocus.com/rss/news.xml security
+```
